@@ -133,6 +133,9 @@ A low-cost AI-assisted virtual reality rehabilitation platform focused on access
 * 💡 Built multiple AI-powered applications from scratch
 
 ---
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Mohitingale13&show_icons=true&theme=tokyonight&hide_border=true)
 
 # 📈 Current Focus
 
