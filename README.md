@@ -1,15 +1,3 @@
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Mohitingale13&show_icons=true&theme=tokyonight&hide_border=true)
-
-## 💻 Most Used Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohitingale13&layout=compact&theme=tokyonight&hide_border=true)'
-
-## 🔥 GitHub Streak
-
-![](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
-
 # Hi, I'm Mohit Ingale 👋
 
 **Software Engineer | AI Builder | Full Stack Developer**
@@ -18,6 +6,7 @@ I enjoy building software that solves real-world problems rather than just demon
 
 I'm a recent Information Technology graduate from India and currently looking for opportunities where I can contribute as a **Software Engineer**, **Backend Developer**, **Full Stack Developer**, or **AI Engineer**.
 
+![](https://komarev.com/ghpvc/?username=Mohitingale13&color=blue)
 ---
 
 ## 🚀 About Me
@@ -32,6 +21,11 @@ I'm a recent Information Technology graduate from India and currently looking fo
 ---
 
 # 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 
 ### Languages
 
