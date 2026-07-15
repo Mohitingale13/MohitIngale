@@ -11,7 +11,7 @@ I'm a recent Information Technology graduate from India and currently looking fo
 
 ## 🚀 About Me
 
-* 💻 Full Stack Developer with a strong interest in AI-powered applications
+* 💻 Full Stack Developer with a strong interest in AI-powered applications.
 * 🤖 Building autonomous AI systems, intelligent workflows, and practical automation tools
 * 📱 Passionate about mobile-first applications and user-centric design
 * 🌍 Interested in software that creates measurable social impact
